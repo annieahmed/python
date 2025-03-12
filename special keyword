@@ -2,42 +2,42 @@
 Special keywords (also called reserved words) in Python are predefined words that have a specific meaning and cannot be used as variable names or function names.
 
 🔹 List of Python Special Keywords 
-Keyword	Meaning / Use
-False	Boolean false value
-None	Represents null (empty) value
-True	Boolean true value
-and	Logical AND operator
-as	Used for aliasing (e.g., import numpy as np)
-assert	Debugging check
-async	Declares an asynchronous function
-await	Used inside async functions
-break	Stops a loop immediately
-class	Defines a class
-continue	Skips the current loop iteration
-def	Defines a function
-del	Deletes a variable or object
-elif	Else if condition
-else	Alternative case in if statement
-except	Handles exceptions
-finally	Runs after try-except
-for	Starts a loop
-from	Imports specific parts of a module
-global	Declares a global variable
-if	Conditional statement
-import	Imports a module
-in	Checks membership in a sequence
-is	Checks object identity
-lambda	Defines an anonymous function
-nonlocal	Declares a variable in an outer function
-not	Logical NOT operator
-or	Logical OR operator
-pass	Placeholder that does nothing
-raise	Raises an exception
-return	Returns a value from a function
-try	Starts an exception handling block
-while	Starts a while loop
-with	Used for context management (e.g., with open())
-yield	Returns a value from a generator function.
+Keyword	           Meaning / Use
+False	          Boolean false value
+None	          Represents null (empty) value
+True	          Boolean true value
+and	            Logical AND operator
+as	            Used for aliasing (e.g., import numpy as np)
+assert        	Debugging check
+async          	Declares an asynchronous function
+await         	Used inside async functions
+break         	Stops a loop immediately
+class          	Defines a class
+continue	     Skips the current loop iteration
+def           	Defines a function
+del           	Deletes a variable or object
+elif          	Else if condition
+else          	Alternative case in if statement
+except	        Handles exceptions
+finally        	Runs after try-except
+for	            Starts a loop
+from          	Imports specific parts of a module
+global	        Declares a global variable
+if	            Conditional statement
+import	        Imports a module
+in            	Checks membership in a sequence
+is            	Checks object identity
+lambda        	Defines an anonymous function
+nonlocal	      Declares a variable in an outer function
+not	            Logical NOT operator
+or	            Logical OR operator
+pass	          Placeholder that does nothing
+raise	          Raises an exception
+return         	Returns a value from a function
+try            	Starts an exception handling block
+while          	Starts a while loop
+with           	Used for context management (e.g., with open())
+yield         	Returns a value from a generator function.
 
 
 
