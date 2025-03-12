@@ -4,11 +4,11 @@ In Python, a data type defines what kind of value a variable can store. Each var
 Main Categories of Data Types in Python
 Python has six main categories of data types:
 
-Category	Data Types	Example
-1. Numeric	int, float, complex	10, 3.14, 5+2j
-2. Sequence	str, list, tuple, range	"hello", [1,2,3], (4,5,6), range(5)
-3. Set	set, frozenset	{1, 2, 3}, frozenset({4,5,6})
-4. Mapping	dict (dictionary)	{"name": "Ali", "age": 25}
-5. Boolean	bool	True, False
-6. Binary	bytes, bytearray, memoryview	b'hello', bytearray(5), memoryview(bytes(5))
+Category	         Data Types	                               Example
+1. Numeric	        int, float, complex	                    10, 3.14, 5+2j
+2. Sequence       	str, list, tuple, range	            "hello", [1,2,3], (4,5,6), range(5)
+3. Set	            set, frozenset	                    {1, 2, 3}, frozenset({4,5,6})
+4. Mapping	       dict (dictionary)                  	{"name": "Ali", "age": 25}
+5. Boolean	       bool	                                  True, False
+6. Binary	         bytes, bytearray, memoryview            b'hello', bytearray(5), memoryview(bytes(5))
 
